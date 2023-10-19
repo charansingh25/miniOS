@@ -1,15 +1,7 @@
 # MiniOS
 
-beginning of the project (19-10-2023)
+Beginning of the project (19-10-2023)
 
-new member added
-member 2 added.
+Making a personalized MINI-Operating System
 
-pesudo
-
-demo 1
-
-demo2
-demo 3
-demo4
-demo 5
+Team Member - Charan Singh, Dilip Choudhary, Jatin Lohar

@@ -2,6 +2,7 @@
 
 beginning of the project (19-10-2023)
 
-//commenting.
+new member added
+member 2 added.
 
-jsdf sdjflskd sdjflksjdk
+pesudo
